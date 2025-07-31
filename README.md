@@ -1,4 +1,4 @@
-## ShortFT: Diffusion Model Alignment via Shortcut-based Fine-Tuning<br><sub>Official PyTorch code release for the ICCV 2025 paper: https://arxiv.org</sub>
+## ShortFT: Diffusion Model Alignment via Shortcut-based Fine-Tuning<br><sub>Official PyTorch code release for the ICCV 2025 paper: https://arxiv.org/abs/2507.22604</sub>
 
 ![I4VGen](./docs/shortft.png)
 
