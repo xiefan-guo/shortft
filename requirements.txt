@@ -1,0 +1,13 @@
+torch>=2.1
+torchvision
+diffusers>=0.31
+transformers>=4.44
+accelerate>=0.33
+safetensors
+open_clip_torch>=2.24
+huggingface_hub
+sentencepiece
+protobuf
+numpy
+Pillow
+tqdm

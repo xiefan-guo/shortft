@@ -1,2 +1,15 @@
-*.DS_Store
-*/*.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Downloaded weights and prompt datasets
+assets/
+data/raw/
+data/train/
+data/eval/
+
+# Run artefacts
+ckpts/
+outputs/
+*.log
